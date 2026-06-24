@@ -47,3 +47,9 @@ dist/
 # Large data files
 data/OnlineRetail.csv
 outputs/cleaned_data.csv
+
+# Dataset
+data/OnlineRetail.csv
+
+# Generated files
+outputs/cleaned_data.csv
